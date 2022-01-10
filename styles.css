@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inconsolata:wght@400;700&family=Libre+Barcode+39+Text&family=Libre+Franklin:ital,wght@0,300;0,500;0,800;1,700&family=Roboto&family=Space+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inconsolata:wght@400;700&family=Libre+Barcode+39+Text&family=Libre+Franklin:ital,wght@0,300;0,500;0,800;1,700&family=Montserrat&family=Roboto&family=Space+Mono:wght@400;700&display=swap');
+
+:root {
+    --gray1: #333333;
+    --gray2: #4f4f4f;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Inconsolata', monospace;
+    font-size: 62.5%;
+}
+
+header h1{
+    display: block;
+    position: relative;
+    left: 25px;
+    top: 25px;
+    font-size: 2.5rem;
+    color: var(--grey1);
+}
+
+.img-background{
+    display: block;
+    position: relative;
+    width: 290px;
+    height: 220px;
+    margin: 0 auto;
+    top: 84px;
+
+    background-image: url(./assets/Scarecrow.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main h2 {
+    display: block;
+    position: relative;
+    top: 140px;
+    font-size: 4.6rem;
+    width: 350px;
+    height: 140px;
+    left: 10px;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    line-height: 6rem;
+    letter-spacing: -0.035em;
+    margin: 0 auto;
+    color: var(--gray1);
+}
+
+main p{
+    display: block;
+    position: relative;
+    width: 310px;
+    height: 81px;
+    top: 120px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+    font-family: 'Space Mono', monospace;
+    font-size: 1.8rem;
+    line-height: 2.8rem;
+    letter-spacing: -0.035em;
+
+    color: var(--gray2);
+}
+
+button{
+    position: relative;
+    display: block;
+    top: 170px;
+    margin-left: 30px;
+    width: 216px;
+    height: 68px;
+    color: white;
+    font-family: 'space Mono', monospace;
+    background-color: var(--gray1);
+}
+button:hover {
+    cursor: pointer;
+    background-color: #4f4f4f;
+}
+
+footer {
+    display: flex;
+}
+
+footer p{
+    display: block;
+    position: relative;
+    bottom: -280px;
+    font-size: 1.4rem;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto;
+}
