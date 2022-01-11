@@ -47,6 +47,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [mariordz.com](www.mariordz.com)
+- Website [mariordz.com](https://www.mariordz.com)
 - GitHub [@MarioDvlp](https://github.com/mariodvlp)
 - Twitter [@MarioDvlp](https://twitter.com/mariodvlp)
