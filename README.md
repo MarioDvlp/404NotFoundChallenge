@@ -36,9 +36,7 @@
 
 ## Overview
 
-![screenshot](https://i.ibb.co/BCDhp3B/404challengescreen.jpg" alt="404challengescreen" border="0")
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+![screenshot](https://i.ibb.co/QKBWgQM/404challengescreen.jpg)
 
 - Where can I see your demo?
 - What was your experience?
