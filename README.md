@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://github.com/MarioDvlp/404NotFoundChallenge">
+    <a href="https://github.com/MarioDvlp/404NotFoundChallenge">
       Solution
     </a>
     <span> | </span>
